@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dagnymol81
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: dagnymol@gmail.com || https://www.linkedin.com/in/dagny-mol-67b876a/
 
 <!---
